@@ -47,6 +47,6 @@ function getuserData(){
             console.log(element.val())
         });
      })
-}
+};
 
-getuserData()
+getuserData();
